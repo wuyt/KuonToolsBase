@@ -1,0 +1,8 @@
+{
+  "name": "com.kuontools.base",
+  "displayName": "KuonTools Base",
+  "author": {"name": "Yantao Wu"},
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "基础项目"
+}
